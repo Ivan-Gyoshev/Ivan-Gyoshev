@@ -8,8 +8,8 @@
 <img align="left" src="Logos/NET_Core_Logo.svg.png" width="70" height="70" />
 <img align="left" src="Logos/c-sharp-logo.png" width="70" height="70" />
 <img align="left" src="Logos/asp-logo.png" width="70" height="70" />
-<img align="left" src="Logos/ef-core-logo.png" width="70" height="70" />
-<img align="left" src="Logos/ms-sql-logo.png" width="70" height="70" />
+<img align="left" src="Logos/ef-core-logo.jfif" width="70" height="70" />
+<img align="left" src="Logos/ms-sql-logo.jpg" width="70" height="70" />
 <img align="left" src="Logos/js-logo.png" width="70" height="70" />
 
 <!--
