@@ -3,7 +3,7 @@
 ## My name is Ivan Gyoshev
 
 ### 📫 How to reach me: 
-LinkedIn <a href="https://www.linkedin.com/in/ivan-gyoshev/">
+<a href="https://www.linkedin.com/in/ivan-gyoshev/">
   <img align="left" alt="Ivan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="70"/>
 </a>
 Or Email me.
