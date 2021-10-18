@@ -6,7 +6,7 @@
 <a href="https://www.linkedin.com/in/ivan-gyoshev/">
   <img align="left" alt="Ivan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="70"/>
 </a>
-Or Email me.
+Or Email me at 'gyoshev.ivan@gmail.com'
 
 ### ⚡ I’m currently learning [ReactJS](https://github.com/facebook/react) <br>
 
