@@ -2,9 +2,15 @@
 
 ## My name is Ivan Gyoshev
 
+### 📫 How to reach me: 
+LinkedIn <a href="https://www.linkedin.com/in/ivan-gyoshev/">
+  <img align="left" alt="Ivan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="70"/>
+</a>
+Or Email me.
+
+### ⚡ I’m currently learning [ReactJS](https://github.com/facebook/react) <br>
 
 ### My Technologies
-
 <img align="left" src="Logos/NET_Core_Logo.svg.png" width="70" height="70" />
 <img align="left" src="Logos/c-sharp-logo.png" width="70" height="70" />
 <img align="left" src="Logos/asp-logo.png" width="70" height="70" />
@@ -12,12 +18,9 @@
 <img align="left" src="Logos/ms-sql-logo.jpg" width="70" height="70" />
 <img align="left" src="Logos/js-logo.png" width="70" height="70" /> <br>
 
-### ⚡ I’m currently learning [ReactJS](https://github.com/facebook/react) <br>
 
-### 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/ivan-gyoshev/">
-  <img align="left" alt="Ivan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="70"/>
-</a>
+
+
 
 <!--
 **Ivan-Gyoshev/Ivan-Gyoshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
