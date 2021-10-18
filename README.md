@@ -3,9 +3,7 @@
 ## My name is Ivan Gyoshev
 
 ### 📫 How to reach me: 
-<a href="https://www.linkedin.com/in/ivan-gyoshev/">
-  <img align="left" alt="Ivan's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" width="70"/>
-</a>
+<a href="https://www.linkedin.com/in/ivan-gyoshev/"><img src="https://img.shields.io/badge/-Ivan%20Gyoshev-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gyoshev.ivan@gmail.com"><img src="https://img.shields.io/badge/-gyoshev.ivan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 
 ### ⚡ I’m currently learning [ReactJS](https://github.com/facebook/react) <br>
