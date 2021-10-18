@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+## My name is Ivan Gyoshev
+
+
+### My Technologies
+
+<img align="left" src="" width="70" height="70" />
+
 <!--
 **Ivan-Gyoshev/Ivan-Gyoshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
