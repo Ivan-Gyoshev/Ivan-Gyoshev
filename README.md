@@ -5,7 +5,12 @@
 
 ### My Technologies
 
-<img align="left" src="" width="70" height="70" />
+<img align="left" src="Logos/NET_Core_Logo.svg.png" width="70" height="70" />
+<img align="left" src="Logos/c-sharp-logo.png" width="70" height="70" />
+<img align="left" src="Logos/asp-logo.png" width="70" height="70" />
+<img align="left" src="Logos/ef-core-logo.png" width="70" height="70" />
+<img align="left" src="Logos/ms-sql-logo.jpg" width="70" height="70" />
+<img align="left" src="Logos/js-logo.jpg" width="70" height="70" />
 
 <!--
 **Ivan-Gyoshev/Ivan-Gyoshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
