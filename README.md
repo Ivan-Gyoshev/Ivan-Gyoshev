@@ -10,9 +10,9 @@
 <img align="left" src="Logos/asp-logo.png" width="70" height="70" />
 <img align="left" src="Logos/ef-core-logo.jfif" width="70" height="70" />
 <img align="left" src="Logos/ms-sql-logo.jpg" width="70" height="70" />
-<img align="left" src="Logos/js-logo.png" width="70" height="70" />
+<img align="left" src="Logos/js-logo.png" width="70" height="70" /> <br>
 
-### ⚡ I’m currently learning [ReactJS](https://github.com/facebook/react)
+### ⚡ I’m currently learning [ReactJS](https://github.com/facebook/react) <br>
 
 ### 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/ivan-gyoshev/">
