@@ -8,8 +8,6 @@
 
 ### 🔭 Check out my ASP.Net MVC Forum System App [Astronomyfi](https://github.com/Ivan-Gyoshev/Astronomyfi) 
 
-### ⚡ I’m currently learning [ReactJS](https://github.com/facebook/react) by doing [Task Manager](https://github.com/Ivan-Gyoshev/Task-Manager)
-
 ### My Tech Stack
 <img align="left" src="Logos/NET_Core_Logo.svg.png" width="70" height="70" />
 <img align="left" src="Logos/c-sharp-logo.png" width="70" height="70" />
