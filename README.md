@@ -1,7 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" align="center">
 
-## My name is Ivan Gyoshev
-
 ### 📫 How to reach me: 
 <a href="https://www.linkedin.com/in/ivan-gyoshev/"><img src="https://img.shields.io/badge/-Ivan%20Gyoshev-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:gyoshev.ivan@gmail.com"><img src="https://img.shields.io/badge/-gyoshev.ivan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
