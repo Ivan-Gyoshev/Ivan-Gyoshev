@@ -5,7 +5,7 @@
 <a href="mailto:gyoshev.ivan@gmail.com"><img src="https://img.shields.io/badge/-gyoshev.ivan@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ivan-Gyoshev&theme=tokyonight&show_icons=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivan-Gyoshev&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ivan-Gyoshev&theme=tokyonight&layout=compact"/>
 <!--
 **Ivan-Gyoshev/Ivan-Gyoshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
